@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>429286500400-9vahoos359ptlhp27d2q62pbtmtvm2u0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.429286500400-9vahoos359ptlhp27d2q62pbtmtvm2u0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBPAFnXkypXcdNrQ6nHChnNJLKx8qySKqM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>429286500400</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.HistorT.HistorT</string>
+	<key>PROJECT_ID</key>
+	<string>histort-12563</string>
+	<key>STORAGE_BUCKET</key>
+	<string>histort-12563.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:429286500400:ios:7b04755ffa1f047a</string>
+	<key>DATABASE_URL</key>
+	<string>https://histort-12563.firebaseio.com</string>
+</dict>
+</plist>
